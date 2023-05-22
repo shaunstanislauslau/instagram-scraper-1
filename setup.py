@@ -13,7 +13,7 @@ setuptools.setup(
     author='realsirjoe, leungwaiban',
     url='https://github.com/realsirjoe/instagram-scraper',
     install_requires=[
-        'requests==2.21.0',
+        'requests==2.31.0',
         'bs4==0.0.1',
         'python-slugify==3.0.2'
     ],
